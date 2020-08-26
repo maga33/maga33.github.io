@@ -3,6 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/students/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/1jinwoo/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/1whie/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/1wonkwang/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/2donggyun/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/2jaehoon/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/3sunghyun/</loc>
+  </url>
+  
+  <url>
     <loc>/authors/admin/</loc>
   </url>
   
