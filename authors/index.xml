@@ -14,14 +14,6 @@
     
     <item>
       <title></title>
-      <link>/authors/1jinwoo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/1jinwoo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>/authors/1seongwoong/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/1seongwoong/</guid>
@@ -54,17 +46,25 @@
     
     <item>
       <title></title>
-      <link>/authors/2jaehoon/</link>
+      <link>/authors/3sunghyun/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/2jaehoon/</guid>
+      <guid>/authors/3sunghyun/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/3sunghyun/</link>
+      <link>/authors/4jinwoo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/3sunghyun/</guid>
+      <guid>/authors/4jinwoo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/5jaehoon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/5jaehoon/</guid>
       <description></description>
     </item>
     
