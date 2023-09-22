@@ -1,41 +1,77 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
     <loc>/students/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/1seongwoong/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/1whie/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/1wonkwang/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/2donggyun/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/2hyeongjoo/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/2saeyoon/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/3sunghyun/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/4jinwoo/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/5jaehoon/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/admin/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/group/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/papers/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication_types/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
   </url>
+  
 </urlset>
